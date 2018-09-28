@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 916cd28ebebf0fd4da3f70bb0ffcaeae
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Moonshine_Jug1
+    100002: Moonshine_Jug2
+    100004: Moonshine_Jug3
+    100006: Moonshine_Jug4
+    100008: //RootNode
+    400000: Moonshine_Jug1
+    400002: Moonshine_Jug2
+    400004: Moonshine_Jug3
+    400006: Moonshine_Jug4
+    400008: //RootNode
+    2300000: Moonshine_Jug1
+    2300002: Moonshine_Jug2
+    2300004: Moonshine_Jug3
+    2300006: Moonshine_Jug4
+    3300000: Moonshine_Jug1
+    3300002: Moonshine_Jug2
+    3300004: Moonshine_Jug3
+    3300006: Moonshine_Jug4
+    4300000: Moonshine_Jug1
+    4300002: Moonshine_Jug2
+    4300004: Moonshine_Jug3
+    4300006: Moonshine_Jug4
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moonshine_Jug1Mat
+    second: {fileID: 2100000, guid: 0587b6c7f1b6faa4eaaecaecb50e34b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moonshine_Jug2Mat
+    second: {fileID: 2100000, guid: 46bc89fd772c8f945aa6080a5f67de9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moonshine_Jug3Mat
+    second: {fileID: 2100000, guid: 3cf538880839fd246841a6974698c0a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moonshine_Jug4Mat
+    second: {fileID: 2100000, guid: 266945e4ad0ac944691cce8800cdd496, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
